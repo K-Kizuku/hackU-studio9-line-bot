@@ -16,6 +16,8 @@
     "tail": "wrangler tail"
   },
   "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.1.0",
     "hono": "^2.7.8"
   }
 }
